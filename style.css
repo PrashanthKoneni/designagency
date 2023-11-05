@@ -1,0 +1,43 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-family: 'Playpen Sans', cursive;
+    font-weight: 900;
+    display: block;
+    margin-bottom: 50px;
+
+}
+
+.imgblock {
+    display: inline-block;
+    flex: 1fr 1fr;
+}
+
+.title-card {
+    font-family: 'Playpen Sans', cursive;
+    font-size: small;
+
+}
+
+
+img {
+    height: 250px;
+    width: 250px;
+
+
+}
+
+.main {
+    font-family: 'Special Elite';
+    text-align: center;
+    font-size: xx-large;
+    color: orangered;
+
+
+}
+
+.develop {
+    color: midnightblue;
+}
